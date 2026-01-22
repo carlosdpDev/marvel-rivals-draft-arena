@@ -11,6 +11,10 @@ export const heroesData = [
   { id: '8', name: 'The Thing', role: 'Vanguard', image: 'the-thing.jpg' },
   { id: '9', name: 'Thor', role: 'Vanguard', image: 'thor.jpg' },
   { id: '10', name: 'Venom', role: 'Vanguard', image: 'venom.jpg' },
+  { id: '41', name: 'Angela', role: 'Vanguard', image: 'venom.jpg' },
+  { id: '42', name: 'Rogue', role: 'Vanguard', image: 'venom.jpg' },
+  { id: '43', name: 'DeadPool', role: 'Vanguard', image: 'venom.jpg' },
+
 
   // Duelist (Damage)
   { id: '11', name: 'Black Panther', role: 'Duelist', image: 'black-panther.jpg' },
@@ -35,6 +39,9 @@ export const heroesData = [
   { id: '30', name: 'Wolverine', role: 'Duelist', image: 'wolverine.jpg' },
   { id: '31', name: 'Phoenix', role: 'Duelist', image: 'phoenix.jpg' },
   { id: '32', name: 'Blade', role: 'Duelist', image: 'blade.jpg' },
+  { id: '44', name: 'DeadPool', role: 'Duelist', image: 'venom.jpg' },
+  { id: '45', name: 'Dare Devil', role: 'Duelist', image: 'venom.jpg' },
+
 
   // Strategist (Support)
   { id: '33', name: 'Adam Warlock', role: 'Strategist', image: 'adam-warlock.jpg' },
@@ -45,5 +52,7 @@ export const heroesData = [
   { id: '38', name: 'Luna Snow', role: 'Strategist', image: 'luna-snow.jpg' },
   { id: '39', name: 'Mantis', role: 'Strategist', image: 'mantis.jpg' },
   { id: '40', name: 'Rocket Raccoon', role: 'Strategist', image: 'rocket.jpg' },
-  { id: '41', name: 'Ultron', role: 'Strategist', image: 'ultron.jpg' }
+  { id: '41', name: 'Ultron', role: 'Strategist', image: 'ultron.jpg' },
+  { id: '46', name: 'DeadPool', role: 'Strategist', image: 'ultron.jpg' },
+  { id: '47', name: 'Gambit', role: 'Strategist', image: 'ultron.jpg' }
 ];
